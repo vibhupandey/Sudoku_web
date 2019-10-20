@@ -30,3 +30,6 @@ To upload new Sudoku puzzle, user need to create the puzzle in text file format.
 - Refresh browser to see now file names in dropdown list
 
  ![image5]
+
+
+** if images are not downloaded , please refer Readme.dox
