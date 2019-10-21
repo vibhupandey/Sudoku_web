@@ -33,4 +33,4 @@ To upload new Sudoku puzzle, user need to create the puzzle in text file format.
   ![alt text](https://github.com/vibhupandey/Sudoku_web/blob/master/5.png)
 
 
-** if images are not downloaded , please refer Readme.dox
+** if images are not downloaded , please refer images in solution
