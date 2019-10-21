@@ -5,7 +5,7 @@
 - Download the solution from GitHub
 - After downloading the application in local system ,Run the solution file
 
-[image1]
+![alt text](https://github.com/vibhupandey/Sudoku_web/blob/master/1.png)
 
 _ For running solution prerequisites: visual studio 2017 and above  _
 
@@ -13,7 +13,7 @@ _ For running solution prerequisites: visual studio 2017 and above  _
 - Click on solve button. Select Sudoku will be solved
 - After solve button is clicked, Sudoku will be filled with correct values.
 
- [image2]
+ ![alt text](https://github.com/vibhupandey/Sudoku_web/blob/master/2.png)
 
 # Upload New Sudoku
 
@@ -21,15 +21,16 @@ To upload new Sudoku puzzle, user need to create the puzzle in text file format.
 
 - Create a text file with comma separated 81 (9\*9) int values, and provide some name to file.
 
- ![image3]_This process can be automated with saving in database._
+  ![alt text](https://github.com/vibhupandey/Sudoku_web/blob/master/3.png)
+  _This process can be automated with saving in database._
 
 - Place the file in project directory folder (. /suduko/suduko/sudokoData)
 
- ![image4]
+  ![alt text](https://github.com/vibhupandey/Sudoku_web/blob/master/4.png)
  
 - Refresh browser to see now file names in dropdown list
 
- ![image5]
+  ![alt text](https://github.com/vibhupandey/Sudoku_web/blob/master/5.png)
 
 
 ** if images are not downloaded , please refer Readme.dox
